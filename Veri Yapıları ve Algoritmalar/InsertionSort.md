@@ -11,7 +11,7 @@
 
 4.  Number 18 is on the average to worst case regarding series.
 
-[7,3,5,8,2,9,4,15,6] 
+- [7,3,5,8,2,9,4,15,6] 
 
 [3,7,5,8,2,9,4,15,6]
 [3,5,7,8,2,9,4,15,6]
